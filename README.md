@@ -1,1 +1,1 @@
-https://github.com/Alex-Navumenko/rsschool-cv.git
+https://alex-navumenko.github.io/rsschool-cv/cv
