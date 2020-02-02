@@ -33,7 +33,7 @@
 ## Education
 
 * 2011-2015 years. Graduated from Minsk College of Entrepreneurship. By specialty Information Technology Software.
-* 2015 to the present. National Technical University. By specialty Information Technology Software. I am in the 3rd year, as I was on academic leave in connection with serving in the army.
+* 2016 to the present. National Technical University. By specialty Information Technology Software. I am in the 3rd year, as I was on academic leave in connection with serving in the army.
 * Mostly educated on youtube channels [DKA-DEVELOP](https://www.youtube.com/channel/UCWdmR3tpvXkzubAZugUQLdw), [WebDesign Master](https://www.youtube.com/channel/UC7enHM_oJRYJOnyJrcRzwbg)
 
 ## English
