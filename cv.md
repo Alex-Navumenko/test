@@ -8,9 +8,9 @@
 
 ## Contact Info:
 
-* Phone: [+375(25)914-93-46](tel:+375259149346)
+* Phone: [+375(25)914-93-46](tel:+375259149346) 
 * E-mail [Alex.navumenko@gmail.com](mailto:Alex.navumenko@gmail.com)
-* Skype [Seferot](skype:live:.cid.fa79fc2699ebe1d5)
+* Skype [Seferott](skype:live:.cid.fa79fc2699ebe1d5)
 
 ## Summary
 
