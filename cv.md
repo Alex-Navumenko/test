@@ -20,7 +20,7 @@
 
 * Graphic editor: Adobe Photoshop, CorelDraw, Adobe Illustrator
 * HTML, CSS, SASS
-* C++, C#, PHP
+* C, C++, C#, PHP
 
 ## Code examples
 
